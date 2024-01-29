@@ -3,7 +3,7 @@
 
 ## Java
 * [Java SE vs Java EE](https://github.com/devholic22/computer-science-interview/blob/main/java/Java_SE_vs_Java_EE.md)
-
+* [자바의 접근 제한자](https://github.com/devholic22/computer-science-interview/blob/main/java/%EC%9E%90%EB%B0%94%EC%9D%98_%EC%A0%91%EA%B7%BC_%EC%A0%9C%ED%95%9C%EC%9E%90.md)
 ## 참고한 Github Reference
 * [Backend_Interview_for_Beginner](https://github.com/backtony/Backend_Interview_for_Beginner)
 * [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)

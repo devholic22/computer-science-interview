@@ -12,3 +12,5 @@
 * [tech_interview.zip](https://github.com/4z7l/tech_interview.zip)
 * [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
 * [2023-CS-Study](https://github.com/devSquad-study/2023-CS-Study)
+* [주니어 자바 개발자를 위한 100가지 질문 (1)](https://careerly.co.kr/comments/83898)
+* [주니어 자바 개발자를 위한 100가지 질문 (2)](https://careerly.co.kr/comments/84093)

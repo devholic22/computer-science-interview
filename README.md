@@ -9,6 +9,8 @@
 * [데이터베이스 사용 이유](https://github.com/devholic22/computer-science-interview/blob/main/database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EC%82%AC%EC%9A%A9_%EC%9D%B4%EC%9C%A0.md)
 ## 운영체제
 * [캐시 메모리](https://github.com/devholic22/computer-science-interview/blob/main/hardware_and_os/%EC%BA%90%EC%8B%9C_%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
+## 네트워크
+* [쿠키와 세션](https://github.com/devholic22/computer-science-interview/blob/main/network/%EC%BF%A0%ED%82%A4%EC%99%80_%EC%84%B8%EC%85%98.md)
 ## 참고한 Github Reference
 * [Backend_Interview_for_Beginner](https://github.com/backtony/Backend_Interview_for_Beginner)
 * [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
